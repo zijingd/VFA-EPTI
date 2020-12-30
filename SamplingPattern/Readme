@@ -1,0 +1,11 @@
+Example code to generate the sampling pattern for VFA-EPTI:
+demo_generate_pattern_VFAEPTI.m
+
+
+Sampling pattern used in the experiments of VFA-EPTI paper:
+Mask_sampling_2p4mm.mat
+Mask_sampling_1p5mm.mat
+Mask_sampling_1mm.mat
+Mask_sampling_600um.mat
+
+format: [nt, ny, nz, nFA]
